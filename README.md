@@ -14,8 +14,14 @@
 </p>
 
 <p align="center">
+    <img src="https://user-images.githubusercontent.com/70847388/171638125-a9e3a72d-41c1-4a16-aa8e-174810bc325e.gif">
+</p>
+
+<!--
+<p align="center">
     <img src="https://user-images.githubusercontent.com/70847388/171634632-6378b951-e501-4320-a542-4436845aa6a8.gif">
 </p>
+-->
 
 <!--
 **cherdantsevilya/cherdantsevilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

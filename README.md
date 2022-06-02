@@ -4,7 +4,7 @@
 + I study at the Russian Technological University MIREA
 + I am also a student of school 21
 
-### Statistics
+### Some Stats
 
 <p align="center">
 <a href="https://github.com/cherdantsevilya">
